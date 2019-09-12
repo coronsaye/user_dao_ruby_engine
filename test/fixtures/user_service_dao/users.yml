@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  email_address: MyString
+  phone_numbe_number: MyString
+  status: false
+  password_digest: MyString
+  email_confirmed: false
+  parent: 1
+  confirmation_token: MyString
+  confirmed_at: 2019-09-08 16:53:27
+  confirmation_sent_at: 2019-09-08 16:53:27
+  is_deleted: false
+
+two:
+  first_name: MyString
+  last_name: MyString
+  email_address: MyString
+  phone_numbe_number: MyString
+  status: false
+  password_digest: MyString
+  email_confirmed: false
+  parent: 1
+  confirmation_token: MyString
+  confirmed_at: 2019-09-08 16:53:27
+  confirmation_sent_at: 2019-09-08 16:53:27
+  is_deleted: false
